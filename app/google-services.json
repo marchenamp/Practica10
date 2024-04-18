@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "300616214080",
+    "firebase_url": "https://fir-login-24167-default-rtdb.firebaseio.com",
+    "project_id": "fir-login-24167",
+    "storage_bucket": "fir-login-24167.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300616214080:android:ecffcf2c1675304da6e1a5",
+        "android_client_info": {
+          "package_name": "mx.edu.potros.practica10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmpeiyPOz1CzyNW4j4o6OZIaFLfUCrb2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
